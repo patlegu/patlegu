@@ -12,7 +12,7 @@ Coordinateur LLM (Qwen2.5-3B) + agents-outils spécialisés (OPNsense, WireGuard
 NER spaCy custom (labels cybersécurité : IP, hostname, CVE, VPN_USER…), réversibilité session, pipeline batch cohérent.
 
 **[mlops](https://huggingface.co/patlegu)**  — Usine à LoRAs pour la cybersécurité.
-Pipeline automatisé : génération de datasets SFT → fine-tuning LoRA sur GPU local → vérification fonctionnelle → publication HuggingFace. Produit les modèles listés sur [huggingface.co/patlegu](https://huggingface.co/patlegu).
+Pipeline automatisé : génération de datasets SFT → fine-tuning LoRA sur GPU local → vérification fonctionnelle → publication HuggingFace. Produit les modèles listés sur [huggingface.co](https://huggingface.co/patlegu).
 
 ---
 
