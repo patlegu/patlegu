@@ -1,6 +1,3 @@
-# Patrice Leguyader
-
-Architecte réseau & sécurité de jour, bidouilleur IA de nuit — quelque part en Bretagne.
 
 Je construis des agents IA spécialisés pour l'automatisation réseau/sécurité, et des outils de préparation de datasets pour le fine-tuning local de LLMs.
 
@@ -14,7 +11,7 @@ Coordinateur LLM (Qwen2.5-3B) + agents-outils spécialisés (OPNsense, WireGuard
 **[anonyfiles](https://github.com/patlegu/anonyfiles)** — Anonymisation automatisée de logs et documents.
 NER spaCy custom (labels cybersécurité : IP, hostname, CVE, VPN_USER…), réversibilité session, pipeline batch cohérent.
 
-**mlops** *(projet interne)* — Usine à LoRAs pour la cybersécurité.
+**[mlops](https://huggingface.co/patlegu)**  — Usine à LoRAs pour la cybersécurité.
 Pipeline automatisé : génération de datasets SFT → fine-tuning LoRA sur GPU local → vérification fonctionnelle → publication HuggingFace. Produit les modèles listés sur [huggingface.co/patlegu](https://huggingface.co/patlegu).
 
 ---
@@ -26,9 +23,7 @@ Pipeline automatisé : génération de datasets SFT → fine-tuning LoRA sur GPU
 | [dataset_forge](https://github.com/patlegu/dataset_forge) | GUI locale tout-en-un pour la préparation de datasets IA (Florence-2, captioning, filtrage) |
 | [DatasetClassifier](https://github.com/patlegu/DatasetClassifier) | Curation manuelle de datasets — approche revisitée |
 | [imageset-editor](https://github.com/patlegu/imageset-editor) | Éditeur de jeux d'images pour l'entraînement |
-| [joschekscaptioner](https://github.com/patlegu/joschekscaptioner) | Outil de captioning multi-backend pour datasets image |
-| [network_automation](https://github.com/patlegu/network_automation) | Toolbox d'automatisation réseau (Netmiko, Ansible) |
-| [docker-wireguard-debian11](https://github.com/patlegu/docker-wireguard-debian11) | WireGuard containerisé sur Debian 11 |
+| [guitarfretboard](https://github.com/patlegu/guitarfretboard) | Outil de visionnage de gammes/accords sur guitare |
 
 ---
 
