@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=220&amp;section=header&amp;text=Patrice%20Le%20Guyader&amp;fontSize=52&amp;fontColor=ffffff&amp;fontFamily=Fira+Code&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Network%20Architect%20%C2%B7%20Security%20%C2%B7%20Local%20AI&amp;descAlignY=58&amp;descSize=18&amp;descColor=aaaaaa" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3000&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Multi-agent+AI+for+network+security;LoRA+fine-tuning+on+local+GPU+(RTX+4070+Ti);OPNsense+%7C+WireGuard+%7C+CrowdSec+automation;From+raw+logs+to+anonymized+%26+actionable+data" /></a>
+
+</div>
 
 Je construis des agents IA spécialisés pour l'automatisation réseau/sécurité, et des outils de préparation de datasets pour le fine-tuning local de LLMs.
 
@@ -11,7 +18,7 @@ Coordinateur LLM (Qwen2.5-3B) + agents-outils spécialisés (OPNsense, WireGuard
 **[anonyfiles](https://github.com/patlegu/anonyfiles)** — Anonymisation automatisée de logs et documents.
 NER spaCy custom (labels cybersécurité : IP, hostname, CVE, VPN_USER…), réversibilité session, pipeline batch cohérent.
 
-**[mlops](https://huggingface.co/patlegu)**  — Usine à LoRAs pour la cybersécurité.
+**[mlops](https://huggingface.co/patlegu)** — Usine à LoRAs pour la cybersécurité.
 Pipeline automatisé : génération de datasets SFT → fine-tuning LoRA sur GPU local → vérification fonctionnelle → publication HuggingFace. Produit les modèles listés sur [huggingface.co](https://huggingface.co/patlegu).
 
 ---
@@ -29,31 +36,40 @@ Pipeline automatisé : génération de datasets SFT → fine-tuning LoRA sur GPU
 
 ## Stack
 
+<div align="center">
+
 **IA / ML**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/patlegu)
-[![vLLM](https://img.shields.io/badge/vLLM-6E4AFF?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://vllm.ai)
-[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)](https://spacy.io)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,fastapi&amp;theme=dark" /></a>
+&nbsp;
+<a href="https://huggingface.co/patlegu"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" /></a>
+<a href="https://spacy.io"><img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&amp;logoColor=white" /></a>
+<a href="https://vllm.ai"><img src="https://img.shields.io/badge/vLLM-6E4AFF?style=for-the-badge&amp;logoColor=white" /></a>
 
-**Frontend / Backend**
+**Frontend / Backend / Infra**
 
-[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
-[![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svelte,ts,docker,linux,nginx,ansible,git,gitlab&amp;theme=dark" /></a>
 
-**Réseau / Sécurité**
-
-[![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com)
+</div>
 
 ---
 
-## Blog
+## GitHub Stats
 
-[nope.breizhland.eu](https://nope.breizhland.eu) — Articles techniques sur les agents IA, l'anonymisation NER et le fine-tuning LoRA local.
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=patlegu&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patlegu&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+**[nope.breizhland.eu](https://nope.breizhland.eu)** — Articles techniques sur les agents IA, l'anonymisation NER et le fine-tuning LoRA local.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=120&amp;section=footer" width="100%" />
+
+</div>
