@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=220&amp;section=header&amp;text=Patrice%20Le%20Guyader&amp;fontSize=52&amp;fontColor=ffffff&amp;fontFamily=Fira+Code&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Network%20Architect%20%C2%B7%20Security%20%C2%B7%20Local%20AI&amp;descAlignY=58&amp;descSize=18&amp;descColor=aaaaaa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=220&amp;section=header&amp;text=Patlegu&amp;fontSize=52&amp;fontColor=ffffff&amp;fontFamily=Fira+Code&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Network%20Architect%20%C2%B7%20Security%20%C2%B7%20Local%20AI&amp;descAlignY=58&amp;descSize=18&amp;descColor=aaaaaa" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3000&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Multi-agent+AI+for+network+security;LoRA+fine-tuning+on+local+GPU+(RTX+4070+Ti);OPNsense+%7C+WireGuard+%7C+CrowdSec+automation;From+raw+logs+to+anonymized+%26+actionable+data" /></a>
 
